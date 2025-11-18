@@ -12,7 +12,7 @@
                         class="fab fa-linkedin-in"></i></a>
             </div>
             <p>&copy; <a class="border-bottom" href="/" >Smartweb IT Solutions</a>, All Right Reserved.</p>
-            <h5 style="text-align: center;">&copy; Designed By, JA Infotech <i class="fa-solid fa-envelope"></i> ja.infotech2010@gmail.com</h5>
+            <!-- <h5 style="text-align: center;">&copy; Designed By, JA Infotech <i class="fa-solid fa-envelope"></i> ja.infotech2010@gmail.com</h5> -->
         </div>
     </div>
 <!-- Footer End -->
