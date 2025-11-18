@@ -28,6 +28,30 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+
+        .whatsapp-float {
+            position: fixed;
+            left: 20px;
+            bottom: 20px;
+            z-index: 9999;
+        }
+
+        .whatsapp-float img {
+            width: 10%;
+            height: 10%;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+            transition: 0.3s;
+        }
+
+        .whatsapp-float img:hover {
+            transform: scale(1.1);
+        }
+
+    </style>
+
 </head>
 <body>
     <!-- Spinner Start -->
