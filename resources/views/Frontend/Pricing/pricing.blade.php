@@ -153,7 +153,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded">
-                                            <h3 style="color: #3a4172; text-align:center;">BASIC Edition</h3>
+                                            <h3 style="color: #3a4172; text-align:center;">Basic Edition</h3>
 
                                             <div class="price mb-3">
                                                 <h2 class="mb-0" style="text-align:center;">₹ 9999</h2><hr>
@@ -226,7 +226,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded">
-                                            <h3 style="color: #3a4172; text-align:center;">BASIC Edition</h3>
+                                            <h3 style="color: #3a4172; text-align:center;">Basic Edition</h3>
 
                                             <div class="price mb-3">
                                                 <h2 class="mb-0" style="text-align:center;">₹ 3870</h2><hr>
