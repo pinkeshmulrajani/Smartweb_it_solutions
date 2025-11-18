@@ -113,7 +113,7 @@
                             <a href="" class="dropdown-item fw-bold">Retail</a>
                             <a href="" class="dropdown-item fw-bold">Distributor</a>
                             <a href="" class="dropdown-item fw-bold">Manufacturing</a>
-                            <a href="" class="dropdown-item fw-bold">Mobile Apps</a>
+                            <a href="" class="dropdown-item fw-bold">Marg Books</a>
                         </div>
                     </div>
                     <a href="/pricing" class="nav-item nav-link fw-bold">Pricing</a>
