@@ -17,3 +17,5 @@ Route::get('/features', [FrontendController::class, 'features']);
 Route::get('/pricing', [FrontendController::class, 'pricing']);
 
 Route::get('/contact', [FrontendController::class, 'contact']);
+
+Route::get('/retail', [FrontendController::class, 'retail']);
