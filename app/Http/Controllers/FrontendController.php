@@ -30,4 +30,9 @@ class FrontendController extends Controller
     {
         return view('Frontend.Contact.contact');
     }
+
+    public function retail()
+    {
+        return view('Frontend.Services.Retails.retail');
+    }
 }
