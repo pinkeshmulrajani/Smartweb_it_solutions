@@ -4,8 +4,8 @@
     @yield('content')
 
     <!-- WhatsApp Floating Button -->
-    <a href="https://wa.me/919834133361" class="whatsapp-float" target="_blank">
+    <!-- <a href="https://wa.me/919834133361" class="whatsapp-float" target="_blank">
         <img src="/img/whatsapp1.png" alt="WhatsApp Chat" />
-    </a>
+    </a> -->
 
 @include('Frontend.layouts.footer')
