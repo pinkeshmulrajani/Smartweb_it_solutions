@@ -112,7 +112,7 @@
                     <div class="container py-5">
                         <div class="text-center">
                             <div class="title wow fadeInUp" data-wow-delay="0.1s">
-                                <div class="title-center">
+                                <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded title-center">
                                     <h1 style="color: #3a4172;">Retail Service</h1>
                                     <!-- <h1>How We Help You</h1> -->
                                 </div>
@@ -310,7 +310,7 @@
                                                     <div class="col-md-4">
                                                         <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded">
                                                             <img src="img/RESTAURANT.webp">
-                                                            <img src="img/RESTAURANT1   .webp" style="margin-top: 19%;">
+                                                            <img src="img/RESTAURANT1.webp" style="margin-top: 19%;">
                                                         </div>
                                                     </div>
                                                     <div class="col-md-8">
