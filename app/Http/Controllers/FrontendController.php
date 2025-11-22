@@ -35,4 +35,10 @@ class FrontendController extends Controller
     {
         return view('Frontend.Services.Retails.retail');
     }
+
+    public function distributor()
+    {
+        return view('Frontend.Services.Distributor.distributor');
+    }
+
 }
