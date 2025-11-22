@@ -41,4 +41,9 @@ class FrontendController extends Controller
         return view('Frontend.Services.Distributor.distributor');
     }
 
+    public function manufacturing()
+    {
+        return view('Frontend.Services.Manufacturing.manufacturing');
+    }
+
 }

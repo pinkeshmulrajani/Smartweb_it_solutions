@@ -21,3 +21,5 @@ Route::get('/contact', [FrontendController::class, 'contact']);
 // Route::get('/retail', [FrontendController::class, 'retail']);
 
 // Route::get('distributor', [FrontendController::class, 'distributor']);
+
+// Route::get('/manufacturing', [FrontendController::class, 'manufacturing']);
