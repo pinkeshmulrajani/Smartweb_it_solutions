@@ -31,7 +31,7 @@
                                             get best deals from suppliers with smart purchase features, run discount & scheme,
                                             easy invoicing along with 1000's of reports to keep you in full control of your business.
                                         </p>
-                                        <a class="btn btn-outline-primary border-2 px-4" href="#!">Read More <i
+                                        <a class="btn btn-outline-primary border-2 px-4" href="/retail">Read More <i
                                             class="fa fa-arrow-right ms-1"></i></a>
                                     </div>
                                 </div>
@@ -53,7 +53,7 @@
                                             Distributors Gives you full control over inventory | Fast billing | Finances | Accounts |
                                             Auto-Bank Reconciliation with 140+ Banks 1000's of reports & MIS | Direct filing of GST returns.
                                         </p>
-                                        <a class="btn btn-outline-primary border-2 px-4" href="#!">Read More <i
+                                        <a class="btn btn-outline-primary border-2 px-4" href="/distributor">Read More <i
                                             class="fa fa-arrow-right ms-1"></i></a>
                                     </div>
                                 </div>
@@ -75,7 +75,7 @@
                                             Schedule-"M". MARG Manufacturing Software is designed to handle all the needs in most efficient,
                                             effective & accurate way.
                                         </p>
-                                        <a class="btn btn-outline-primary border-2 px-4" href="#!">Read More <i
+                                        <a class="btn btn-outline-primary border-2 px-4" href="/manufacturing">Read More <i
                                             class="fa fa-arrow-right ms-1"></i></a>
                                     </div>
                                 </div>

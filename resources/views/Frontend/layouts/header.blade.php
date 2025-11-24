@@ -108,11 +108,11 @@
                     <a href="/about" class="nav-item nav-link fw-bold">About</a>
                     <a href="/features" class="nav-item nav-link fw-bold">Features</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle fw-bold" data-bs-toggle="dropdown">Services</a>
+                        <a href="" class="nav-link dropdown-toggle fw-bold" data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu m-0">
-                            <a href="" class="dropdown-item fw-bold">Retail</a>
-                            <a href="" class="dropdown-item fw-bold">Distributor</a>
-                            <a href="" class="dropdown-item fw-bold">Manufacturing</a>
+                            <a href="/retail" class="dropdown-item fw-bold">Retail</a>
+                            <a href="/distributor" class="dropdown-item fw-bold">Distributor</a>
+                            <a href="/manufacturing" class="dropdown-item fw-bold">Manufacturing</a>
                             <a href="" class="dropdown-item fw-bold">Marg Books</a>
                         </div>
                     </div>
