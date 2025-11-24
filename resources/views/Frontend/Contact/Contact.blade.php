@@ -52,7 +52,6 @@
                                         <a href="/" class="fw-bold">Home</a><br />
                                         <a href="/about" class="fw-bold">About</a><br />
                                         <a href="/features" class="fw-bold">Features</a><br />
-                                        <a href="" class="fw-bold">Services</a><br />
                                         <a href="/pricing" class="fw-bold">Pricing</a><br />
                                         <a href="/contact" class="fw-bold">Contact</a>
                                     </div>
@@ -60,9 +59,9 @@
                                 <div class="col-lg-4">
                                     <div class="single-footer-widget">
                                         <h1 style="color: #3a4172;">Software Type</h1>
-                                        <a href="">Retail</a><br />
-                                        <a href="">Distributor</a><br />
-                                        <a href="">Manufacturing</a><br />
+                                        <a href="/retail">Retail</a><br />
+                                        <a href="/distributor">Distributor</a><br />
+                                        <a href="/manufacturing">Manufacturing</a><br />
                                         <a href="">Marg Books</a>
                                     </div>
                                 </div>

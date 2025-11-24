@@ -593,49 +593,65 @@
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="single-footer-widget">
-                        <h1 style="color: #3a4172;">Contact us</h1>
-                        <a href="/" class="fw-bold">Smartweb IT Solutions</a><br />
-                        <a href="/" class="fw-bold">Rajapeth Square, Amravati - 444601</a><br />
-                        <a href="/" class="fw-bold">smartwebitsolutions2143@gmail.com</a><br />
-                        <a href="/" class="fw-bold">www.margerp.com</a><br />
-                        <a href="/" class="fw-bold">9834133361</a>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="single-footer-widget">
-                        <h1 style="color: #3a4172;">Quick Link</h1>
-                        <a href="/" class="fw-bold">Home</a><br />
-                        <a href="/about" class="fw-bold">About</a><br />
-                        <a href="/features" class="fw-bold">Features</a><br />
-                        <a href="" class="fw-bold">Services</a><br />
-                        <a href="/pricing" class="fw-bold">Pricing</a><br />
-                        <a href="/contact" class="fw-bold">Contact</a>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="single-footer-widget">
-                        <h1 style="color: #3a4172;">Features</h1>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <a href="/" class="fw-bold">. GST Billing & Return Filing</a><br />
-                                <a href="/" class="fw-bold">. Easy Accounting</a><br />
-                                <a href="/" class="fw-bold">. Inventory Management</a><br />
-                                <a href="/" class="fw-bold">. e-Invoicing</a><br />
-                                <a href="/" class="fw-bold">. Payment & Reconciliation</a>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="/" class="fw-bold">. Barcode Management</a><br />
-                                <a href="/" class="fw-bold">. Online Purchase Import</a><br />
-                                <a href="/" class="fw-bold">. Send Invoices on WhatsApp</a><br />
-                                <a href="/" class="fw-bold">. eRetail Web Application</a>
-                            </div>
+    <!-- FOOTER -->
+    <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="footer-bg">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Contact -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-footer-widget">
+                            <h1 class="fw-bold" style="color: #3a4172">Contact Us</h1>
+                            <a href="">Smartweb IT Solutions</a><br />
+                            <a href="">Rajapeth Square, Amravati - 444601</a><br />
+                            <a href="">smartwebitsolutions2143@gmail.com</a><br />
+                            <a href="">www.margerp.com</a><br />
+                            <a href="">9834133361</a>
                         </div>
                     </div>
+
+                    <!-- Quick Links -->
+                    <div class="col-lg-2 col-md-6">
+                        <div class="single-footer-widget">
+                            <h1 class="fw-bold" style="color: #3a4172">Quick Link</h1>
+                            <a href="/">Home</a><br>
+                            <a href="/about">About</a><br>
+                            <a href="/features">Features</a><br>
+                            <a href="/pricing">Pricing</a><br>
+                            <a href="/contact">Contact</a>
+                        </div>
+                    </div>
+
+                    <!-- Services -->
+                    <div class="col-lg-2 col-md-6">
+                        <div class="single-footer-widget">
+                            <h1 class="fw-bold" style="color: #3a4172">Services</h1>
+                            <a href="/retail">Retail</a><br>
+                            <a href="/distributor">Distributor</a><br>
+                            <a href="/manufacturing">Manufacturing</a><br>
+                            <a href="/">Marg Books</a>
+                        </div>
+                    </div>
+
+                    <!-- Features -->
+                    <div class="col-lg-4">
+                        <div class="single-footer-widget">
+                            <h1 class="fw-bold" style="color: #3a4172">Features</h1>
+                            <a href="">. GST Billing & Return Filing</a><br />
+                            <a href="">. Easy Accounting</a><br />
+                            <a href="">. Inventory Management</a><br />
+                            <a href="">. e-Invoicing</a><br />
+                            <a href="">. Payment & Reconciliation</a><br />
+                            <a href="">. Barcode Management</a><br />
+                            <a href="">. Online Purchase Import</a><br />
+                            <a href="">. Send Invoices on WhatsApp</a><br />
+                            <a href="">. eRetail Web Application</a>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

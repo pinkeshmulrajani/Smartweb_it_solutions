@@ -128,7 +128,7 @@
                     <!-- Contact -->
                     <div class="col-lg-4 col-md-6">
                         <div class="single-footer-widget">
-                            <h1 class="fw-bold" style="color: #3a4172">Contact Us</h1>
+                            <h1 class="fw-bold">Contact Us</h1>
                             <a href="">Smartweb IT Solutions</a><br />
                             <a href="">Rajapeth Square, Amravati - 444601</a><br />
                             <a href="">smartwebitsolutions2143@gmail.com</a><br />
@@ -138,39 +138,44 @@
                     </div>
 
                     <!-- Quick Links -->
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-2 col-md-6">
                         <div class="single-footer-widget">
-                            <h1 class="fw-bold" style="color: #3a4172">Quick Link</h1>
+                            <h1 class="fw-bold">Quick Link</h1>
                             <a href="/">Home</a><br>
                             <a href="/about">About</a><br>
                             <a href="/features">Features</a><br>
-                            <a href="">Services</a><br>
                             <a href="/pricing">Pricing</a><br>
                             <a href="/contact">Contact</a>
                         </div>
                     </div>
 
-                    <!-- Features -->
-                    <div class="col-lg-5">
+                    <!-- Services -->
+                    <div class="col-lg-2 col-md-6">
                         <div class="single-footer-widget">
-                            <h1 class="fw-bold" style="color: #3a4172">Features</h1>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <a href="">. GST Billing & Return Filing</a><br />
-                                    <a href="">. Easy Accounting</a><br />
-                                    <a href="">. Inventory Management</a><br />
-                                    <a href="">. e-Invoicing</a><br />
-                                    <a href="">. Payment & Reconciliation</a>
-                                </div>
-                                <div class="col-md-6">
-                                    <a href="">. Barcode Management</a><br />
-                                    <a href="">. Online Purchase Import</a><br />
-                                    <a href="">. Send Invoices on WhatsApp</a><br />
-                                    <a href="">. eRetail Web Application</a>
-                                </div>
-                            </div>    
+                            <h1 class="fw-bold">Services</h1>
+                            <a href="/retail">Retail</a><br>
+                            <a href="/distributor">Distributor</a><br>
+                            <a href="/manufacturing">Manufacturing</a><br>
+                            <a href="/">Marg Books</a>
                         </div>
                     </div>
+
+                    <!-- Features -->
+                    <div class="col-lg-4">
+                        <div class="single-footer-widget">
+                            <h1 class="fw-bold">Features</h1>
+                            <a href="">. GST Billing & Return Filing</a><br />
+                            <a href="">. Easy Accounting</a><br />
+                            <a href="">. Inventory Management</a><br />
+                            <a href="">. e-Invoicing</a><br />
+                            <a href="">. Payment & Reconciliation</a><br />
+                            <a href="">. Barcode Management</a><br />
+                            <a href="">. Online Purchase Import</a><br />
+                            <a href="">. Send Invoices on WhatsApp</a><br />
+                            <a href="">. eRetail Web Application</a>
+                        </div>    
+                    </div>
+
                 </div>
             </div>
         </div>
