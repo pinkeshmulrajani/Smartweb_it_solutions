@@ -3,17 +3,31 @@
 @section('content')
 
 <style>
+
+    #header-carousel .carousel-item {
+        position: relative;
+        min-height: 1000px;
+    }
+
+    .carousel-caption {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding-top: 100px;
+        /* background: rgba(0, 0, 0, .7); */
+        z-index: 1;
+    }
     
-    #header-carousel-1 img {
+    #header-carousel img {
         object-fit: cover;
         height: 50vh;
     }
 
     @media (max-width: 768px) {
-        #header-carousel-1 img {
+        #header-carousel img {
             height: 55vh;
-        }
-
+        }    
     }
 
     #header-carousel img {
@@ -31,7 +45,7 @@
         }
         .carousel-caption p {
             font-size: 14px !important;
-        }
+         }
     }
 
     /* Footer Responsive */
@@ -60,8 +74,9 @@
 
     /* Footer background */
     .footer-bg {
-        padding: 40px 20px;
-        margin-top: -5px;
+         /* background: #ffffffcc; */
+         padding: 40px 20px;
+         margin-top: -5px;
     }
 
     .description-text {
