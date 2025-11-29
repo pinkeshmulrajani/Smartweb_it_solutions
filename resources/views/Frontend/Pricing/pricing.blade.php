@@ -112,7 +112,7 @@
                     <div class="container py-5">
                         <div class="text-center">
                             <div class="title wow fadeInUp" data-wow-delay="0.1s">
-                                <div class="title-center">
+                                <div class="title-center" style="margin-top: 22%;">
                                     <h1 style="color: #3a4172;">Pricing</h1>
                                     <!-- <h1>How We Help You</h1> -->
                                 </div>

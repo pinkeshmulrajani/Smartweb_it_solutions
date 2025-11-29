@@ -12,7 +12,7 @@
     --bs-white: #3a4172;
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
-    --bs-primary: #ffffff;
+    --bs-primary: blue;
     --bs-secondary: #1a1a1a;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
@@ -6907,7 +6907,7 @@ fieldset:disabled .btn {
     background-color: #a0a0a0 !important;
 }
 .bg-dark {
-    /* background-color: #0d0d0d !important; */
+    background-color: #ffffff !important;
 }
 .bg-body {
     background-color: #0d0d0d !important;

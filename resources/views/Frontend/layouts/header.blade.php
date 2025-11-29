@@ -95,13 +95,17 @@
     <!-- Header Start -->
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-lg-5">
-            <a href="/" class="navbar-brand ms-4 ms-lg-0 d-flex align-items-center flex-wrap">
-                <h2 class="mb-0 text-primary text-uppercase fw-bold d-flex align-items-center"><i class="fa-regular fa-face-smile me-1"></i>Smartweb IT Solutions</h2>
-            </a>
-            <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse"
-                data-bs-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+            <!-- <a href="/" class="navbar-brand ms-4 ms-lg-0 d-flex align-items-center flex-wrap"> -->
+                <h2 class="mb-0 text-primary text-uppercase fw-bold d-flex align-items-center">
+                    <!-- <img src="img/logo3.png" alt="icon" class="me-1" style="width:25%; height:10%;"> -->
+                    <img src="img/logo6.png" alt="icon" class="me-1" style="width:50%; height:10%;">
+                    <!-- Smartweb IT Solutions -->
+                    <button type="button" style="margin-left: 30%;" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </h2>
+            <!-- </a> -->
+            
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto p-4 p-lg-0">
                     <a href="/" class="nav-item nav-link fw-bold">Home</a>

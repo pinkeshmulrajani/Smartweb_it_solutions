@@ -3,38 +3,94 @@
 @section('content')
 
     <style>
-        /* Make the whole page fill the screen height */
-        html, body {
-            height: 100%;
-            margin: 0;
+
+        #header-carousel .carousel-item {
+            position: relative;
+            min-height: 1000px;
         }
 
-        #header-carousel,
-        .carousel-item,
-        .carousel-item img {
-            height: 100vh;
-            object-fit: cover;
-        }
-
-        /* Fix footer widget container at bottom */
         .carousel-caption {
-            bottom: 0 !important;
-            top: 0 !important;
-            transform: translateY(0);
-            padding-bottom: 20px;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            padding-top: 100px;
+            /* background: rgba(0, 0, 0, .7); */
+            z-index: 1;
+        }
+    
+        #header-carousel img {
+            object-fit: cover;
+            height: 50vh;
         }
 
-        /* Responsive footer 3 columns → stack in mobile */
         @media (max-width: 768px) {
-            .col-lg-4 {
-                width: 100% !important;
-                text-align: center;
-                margin-bottom: 20px;
+            #header-carousel img {
+                height: 55vh;
+            }
+            
+        }
+
+        #header-carousel img {
+            object-fit: cover;
+            height: 100vh;
+        }
+
+        @media (max-width: 768px) {
+            #header-carousel img {
+                height: 55vh;
             }
 
-            .carousel-caption h1 a {
-                font-size: 1.3rem;
+            .carousel-caption h1 {
+                font-size: 28px !important;
             }
+            .carousel-caption p {
+                font-size: 14px !important;
+            }
+        }
+
+        /* Footer Responsive */
+        .single-footer-widget h1 {
+            font-size: 26px;
+            color: #3a4172;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        .single-footer-widget p,
+        .single-footer-widget a {
+            color: #3a4172;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .single-footer-widget a:hover {
+            color: #ffffff;
+        }
+
+        @media(max-width: 768px){
+            .single-footer-widget {
+                margin-bottom: 25px;
+                text-align: center;
+            }
+        }
+
+        /* Footer background */
+        .footer-bg {
+            /* background: #ffffffcc; */
+            padding: 40px 20px;
+            margin-top: -5px;
+        }
+
+        .description-text {
+            color: #3a4172;
+            white-space: normal;
+            overflow: visible;
+            text-overflow: initial;
+            display: block;
+            line-height: 1.6;
+        }
+
+        .animated {
+            overflow: visible !important;
         }
 
     </style>
@@ -43,7 +99,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="w-100" src="img/background.jpg" alt="Image">
-                    <div class="carousel-caption align-items-center justify-content-center">
+                    <div class="carousel-caption align-items-center justify-content-center" style="margin-top: 18%;">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-4">

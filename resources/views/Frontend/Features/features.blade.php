@@ -10,7 +10,7 @@
                         <div class="text-center">
                             <div class="title wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="title-center">
-                                    <h1 class="fw-bold" style="color: #3a4172;">Features</h1>
+                                    <h1 class="fw-bold" style="color: #3a4172; margin-top: 80%;">Features</h1>
                                     <!-- <h1>How We Help You</h1> -->
                                 </div>
                             </div>

@@ -112,7 +112,7 @@
                     <div class="container py-5">
                         <div class="text-center">
                             <div class="title wow fadeInUp" data-wow-delay="0.1s">
-                                <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded title-center">
+                                <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded title-center" style="margin-top: 22%;>
                                     <h1 style="color: #3a4172;">Distributor Service</h1>
                                     <!-- <h1>How We Help You</h1> -->
                                 </div>

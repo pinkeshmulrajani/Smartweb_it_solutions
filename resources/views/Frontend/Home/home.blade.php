@@ -101,22 +101,28 @@
         <div class="carousel-item active">
             <img class="w-100" src="{{ asset('img/background.jpg') }}" alt="Image">
 
-            <div class="carousel-caption flex-column align-items-center justify-content-center">
-                <div class="title mx-5 px-5 animated slideInDown">
-                    <div class="title-center">
-                        <h5 class="fw-bold" style="color:#3a4172;">Marg ERP</h5>
-                        <h1 class="display-1" style="color:#3a4172;">All Problems One Solution</h1>
+            <div class="row" style="background:#ffffff;">
+                <div class="col-md-12">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="title mx-5 px-5 animated slideInDown">
+                            <div class="title-center">
+                                    <h5 class="fw-bold" style="color:#3a4172;">Marg ERP</h5>
+                                    <h1 class="display-1" style="color:#3a4172;">All Problems One Solution</h1>
+                                </div>
+                            </div>
+
+                            <p class="fs-5 mb-5 animated slideInDown description-text" style="color:#3a4172;">
+                                Smartweb IT Solutions is partner of india's No. 1 Inventory & Accounting Software Marg ERP
+                                has you covered end-to-end, from Billing and Inventory to GST, e-invoicing, and beyond.
+                                with innovative features that are easy to understand and apply, it is the perfect solution for every
+                                type of business.
+                            </p>
+                        </div>
                     </div>
                 </div>
-
-                <p class="fs-5 mb-5 animated slideInDown description-text" style="color:#3a4172;">
-                    Smartweb IT Solutions is partner of india's No. 1 Inventory & Accounting Software Marg ERP
-                    has you covered end-to-end, from Billing and Inventory to GST, e-invoicing, and beyond.
-                    with innovative features that are easy to understand and apply, it is the perfect solution for every
-                    type of business.
-                </p>
             </div>
         </div>
+        
     </div>
 </div>
 

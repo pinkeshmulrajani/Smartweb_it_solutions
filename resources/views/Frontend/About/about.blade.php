@@ -100,7 +100,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="w-100" src="img/background.jpg" alt="Image">
-                        <div class="carousel-caption flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="title mx-5 px-5 animated slideInDown">
                                 <div class="title-center">
                                     <h5 class="fw-bold" style="color: #3a4172;">Smartweb IT Solutions</h5>
