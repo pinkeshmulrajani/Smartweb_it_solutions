@@ -117,9 +117,9 @@
                             <h1 class="fw-bold" style="color: #3a4172">Contact Us</h1>
                             <a href="">Smartweb IT Solutions</a><br />
                             <a href="">Rajapeth Square, Amravati - 444601</a><br />
-                            <a href="">smartwebitsolutions2143@gmail.com</a><br />
+                            <a href="mailto:smartwebitsolutions2143@gmail.com">smartwebitsolutions2143@gmail.com</a><br />
                             <a href="">www.margerp.com</a><br />
-                            <a href="">9834133361</a>
+                            <a href="tel:+919834133361">9834133361</a>
                         </div>
                     </div>
 
