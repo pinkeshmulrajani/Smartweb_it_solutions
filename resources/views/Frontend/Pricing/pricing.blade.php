@@ -3,6 +3,15 @@
 @section('content')
 
     <style>
+    
+        a {
+            color: #3a4172;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: blue;
+        }
 
         .hide {
             display: none;
@@ -593,6 +602,22 @@
                 </div>
             </div>
         </div>
+        
+        <div class="container" style="margin-bottom: 5%;">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="pricing-box height-fix small-box p-4 mb-4 bg-white shadow-sm rounded">
+                        <h1 style="color: #3a4172; text-align:center;">
+                            <a href="whatsapp://send?phone=919834133361"
+                                onclick="if(!navigator.userAgent.match(/Android|iPhone|iPad/i)){ window.location='https://wa.me/919834133361';}">
+                                        Request For Book Demo
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
     </div>
 
     <!-- FOOTER -->
