@@ -98,9 +98,9 @@
             <!-- <a href="/" class="navbar-brand ms-4 ms-lg-0 d-flex align-items-center flex-wrap"> -->
                 <h2 class="mb-0 text-primary text-uppercase fw-bold d-flex align-items-center">
                     <!-- <img src="img/logo3.png" alt="icon" class="me-1" style="width:25%; height:10%;"> -->
-                    <img src="img/logo6.png" alt="icon" class="me-1" style="width:50%; height:10%;">
+                    <img src="img/logo8.png" alt="icon" class="me-1" style="width:20%; height:10%;">
                     <!-- Smartweb IT Solutions -->
-                    <button type="button" style="margin-left: 30%;" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <button type="button" style="margin-left: 60%;" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                 </h2>
